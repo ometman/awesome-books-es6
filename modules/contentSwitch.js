@@ -1,4 +1,3 @@
-/* eslint-disable no-use-before-define */
 import { addBookForm } from './addBookForm.js';
 import { collection } from './collectionsDisplay.js';
 import { contact } from './contactInfo.js';

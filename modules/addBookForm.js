@@ -1,4 +1,3 @@
-/* eslint-disable no-use-before-define */
 // form page
 import { body } from './header.js';
 

@@ -1,4 +1,3 @@
-/* eslint-disable no-use-before-define */
 import { mainHeader } from './modules/header.js';
 import pageSwitch from './modules/contentSwitch.js';
 import { theFooter } from './modules/footer.js';

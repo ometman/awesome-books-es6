@@ -1,5 +1,3 @@
-/* eslint-disable no-use-before-define */
-
 // create header element
 const body = document.querySelector('body');
 const mainHeader = document.createElement('header');

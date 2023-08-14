@@ -1,4 +1,3 @@
-/* eslint-disable no-use-before-define */
 // get date from luxon
 import { DateTime } from './luxon.js';
 import { mainHeader } from './header.js';

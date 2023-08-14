@@ -1,4 +1,3 @@
-/* eslint-disable no-use-before-define */
 import { body } from './header.js';
 
 export const contact = document.createElement('section');

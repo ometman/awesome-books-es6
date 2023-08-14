@@ -1,5 +1,3 @@
-/* eslint-disable no-use-before-define */
-
 export class BooksClass {
   constructor(bookTitle, bookAuthor) {
     this.title = bookTitle;
