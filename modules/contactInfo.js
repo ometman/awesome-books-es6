@@ -9,7 +9,7 @@ contact.innerHTML = `<h2>Contact information</h2>
     Do you have any question, or just want to say "Hello"? <br />
     You have reachout to us:
   </p>
-  <ul>
+  <ul class="contact-details">
     <li class="email">Our email: mail@mail.com</li>
     <li class="phone">Our phone number: +233 55 3665 190 or</li>
     <li class="address">456 Coding Street, City, Country</li>
